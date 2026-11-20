@@ -1,9 +1,4 @@
-# Probabilidad y Estadística (M) — Primer cuatrimestre de 2014
-
-## Equipo docente
-
-- **Clases teóricas:** Pablo Groisman
-- **Clases prácticas:** Analia Ferrari, Cecilia Oliva, Virginia Pedreira
+# Probabilidades y Estadística M — Primer cuatrimestre de 2014
 
 ## Prácticas
 
